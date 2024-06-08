@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61036858100",
+    "project_id": "puzzle-game-sejarah-lampung",
+    "storage_bucket": "puzzle-game-sejarah-lampung.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61036858100:android:82e7bf248d4dc089232ca1",
+        "android_client_info": {
+          "package_name": "com.BlueJeans.PeninggalanSejarahLampung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61036858100-90dd08k3u8hqmta5ihu1pod4la525csh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfGgtKzSVvTtBETy9bBODmpHV3D_alQpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61036858100-90dd08k3u8hqmta5ihu1pod4la525csh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
